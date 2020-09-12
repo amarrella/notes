@@ -33,7 +33,7 @@ I hope this list convinced you that learning Nix is worth it :) There are many m
 ## How to learn Nix
 
 ### Learn how to install Nix
-If you are on Linux or on a Mac Os X version *10.14 or earlier (NO CATALINA)* , no problem, just follow the instructions here: https://nixos.org/nix/manual/#sect-multi-user-installation
+If you are on Linux or on a Mac Os X version *10.14 or earlier (NO CATALINA)* , no problem, just follow the instructions [here](https://nixos.org/nix/manual/sect-multi-user-installation)
 
 
 I am linking to the multi user installation instructions because it seems to be the most frequently adopted in the community, so it might be easier to get help. 
