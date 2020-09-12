@@ -93,7 +93,7 @@ From [nix manual](https://nixos.org/nix/manual/):
 
 I suggest first watching these 3 videos from [Nixology](https://www.youtube.com/playlist?list=PLRGI9KQ3_HP_OFRG6R-p4iFgMSK1t5BHs) to get an idea on what you can do with derivations:
 - [Packaging a Gem as a Nix derivation](https://www.youtube.com/watch?v=61RCi_5IgEY)
-- [Using nix to prettify `ls` output on macOS ](https://www.youtube.com/watch?v=1nU_hR2kod4)
+- [Using nix to prettify `ls` output on macOS](https://www.youtube.com/watch?v=1nU_hR2kod4)
 - [Fetching stuff from the internet using Nix derivations](https://www.youtube.com/watch?v=XMauFegrtB4)
 
 
