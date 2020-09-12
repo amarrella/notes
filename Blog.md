@@ -2,7 +2,7 @@
 date: 2020-09-12T09:30
 ---
 
-# New zettel: Blog
+# Blog
 
 Hi there! Welcome to my website! 😊
 
