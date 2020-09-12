@@ -1,8 +1,13 @@
 ---
-date: 2020-09-12T09:59
+date: 2020-09-12T09:30
 ---
 
-# New zettel: index
+# Welcome
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+Hi there! Welcome to my website! 😊
 
+This is meant to be my "public" personal space, a bit like websites before social media were.  
+
+[[[z:zettels?tag=blog]]]
+
+This website is built using [Neuron](https://neuron.zettel.page/) which leverages [zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) to manage the content.
