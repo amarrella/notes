@@ -13,6 +13,7 @@ jobs:
     - uses: cachix/cachix-action@v8
       with:
         name: srid
+        skipPush: true
     - name: Build neuron site
       run: nix-shell --run "neuron -d $PWD rib"
     - name: Deploy to gh-pages 🚀
