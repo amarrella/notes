@@ -8,7 +8,12 @@ This is meant to be my "public" personal space, a bit like websites before socia
 
 This website is built using [Neuron](https://neuron.zettel.page/), which leverages [zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) to manage the content.
 
-[[[z:zettels?tag=blog]]]
+## Blog
+[[z:zettels?tag=blog]]
+
+## Other notes
+- [[Baking]]
+
 
 ## Connect with me
 - [Alessandro Marrella on Linkedin](https://www.linkedin.com/in/alessandromarrella) 
