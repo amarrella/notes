@@ -10,6 +10,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - uses: cachix/install-nix-action@v12
+    - uses: cachix/cachix-action@v8
+      with:
+        name: srid
     - name: Build neuron site
       run: nix-shell --run "neuron -d $PWD rib"
     - name: Deploy to gh-pages 🚀
