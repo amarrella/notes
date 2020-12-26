@@ -9,7 +9,9 @@ tags:
 Note: for this recipe you need a pizza stone to get best results. In alternative, you can use a pan that can withstand high temperatures.
 
 **Preparation time**: 3h
+
 **Rest time**: 12h (but the dough is usable up to 36h later)
+
 **Cooking time**: 3-4 mins (depending on the oven)
 
 ## Ingredients (for 4 Pizzas)
