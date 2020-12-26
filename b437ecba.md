@@ -1,4 +1,4 @@
 # Recently created zettels
 
-<z:zettels?timeline>
+[[z:zettels?timeline]]
 
