@@ -19,8 +19,8 @@ Note: for this recipe you need a pizza stone to get best results. In alternative
 - 200g Manitoba flour
 - 1-2g dried yeast (the least yeast you put, the longer it will take to grow, but it will grow)
 - 360ml water (room temperature or colder if you want a longer leavening)
-- 45g olive oil
-- 30g salt
+- 40g extra virgin olive oil
+- 12g salt
 
 ## Preparation
 1. Mix all the flour with the yeast in a large bowl. Add 70% of water and mix manually.
