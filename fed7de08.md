@@ -103,7 +103,7 @@ Then when you have a general idea and you need to dig deeper [Nix pills](https:/
 For a complete reference, you can check out the [nix manual](https://nixos.org/nix/manual/), which contains very useful sections such as the one dedicated to [Nixpkgs library functions](https://nixos.org/nixpkgs/manual/#sec-functions-library). 
 
 #### Learn how to create derivations to package your code
-There are several libraries that help you package your code depending on the programming language you are using. The [nixpkgs manual](https://nixos.org/nixpkgs/manual/#chap-language-support) links some of them but sometimes checking out what is in the community leads to easier solutions. For example for Haskell, I'd use [haskell.nix](https://github.com/input-output-hk/haskell.nix).
+There are several libraries that help you package your code depending on the programming language you are using. The [nixpkgs manual](https://nixos.org/nixpkgs/manual/#chap-language-support) links some of them but sometimes checking out what is in the community leads to easier solutions. 
 
 ##### Learn to create docker images with Nix
 Nix is also an excellent way of creating small and reproducible docker images. The [dockerTools](https://nixos.org/nixpkgs/manual/#sec-pkgs-dockerTools) documentation provides some reference and examples.
