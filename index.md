@@ -17,3 +17,4 @@ This website is built using [Neuron](https://neuron.zettel.page/), which leverag
 - [Alessandro Marrella on Linkedin](https://www.linkedin.com/in/alessandromarrella) 
 - [@amarrella on Github](https://github.com/amarrella) 
 - [@amarrella on Twitter](https://twitter.com/amarrella)
+- <a rel="me" href="https://indieweb.social/@amarrella">@amarrella on Mastodon</a>
